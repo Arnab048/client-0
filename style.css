@@ -48,3 +48,21 @@ p{
     background-repeat: no-repeat;
     background-image: url("Resources/biography-bg.png");
 }
+.sec2{
+    background-repeat: no-repeat;
+    background-image: url("Resources/latest-work-bg.png");
+}
+.sec2 h2{
+    text-align: center;
+}
+
+.works{
+    width: 20%;
+    float: left;
+    margin-left: 6%;
+    margin-top: 6%;
+    margin-right: 6%;
+}
+.works img{
+    width: 125%;
+}
